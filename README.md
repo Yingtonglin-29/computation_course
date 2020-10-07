@@ -233,5 +233,3 @@ Confidentiality, Mandatory Reporting, and Sexual Assault
 -------
 
 For information and resources regarding sexual misconduct or assault visit the [Title IX](https://myusf.usfca.edu/TITLE-IX) coordinator or USF's [Callisto website](http://usfca.callistocampus.org/).
-
-Jessez
